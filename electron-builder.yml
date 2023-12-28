@@ -2,7 +2,7 @@ appId: 'fromagerie launcher'
 productName: 'Fromagerie launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2023 Fromagerie'
+copyright: 'Copyright © 2018-2024 Fromagerie'
 
 asar: true
 compression: 'maximum'
